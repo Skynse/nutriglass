@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Large data, models and outputs (keep out of git)
+data/
+runs/
+training/datasets/
+training/runs/
+training/weights/
+src/eater/models/
+*.pt
+*.mp4
+*.mkv
+*.webm
+.ipynb_checkpoints/

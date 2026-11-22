@@ -1,0 +1,4 @@
+# Downloaded model weights and ModelScope metadata
+models/
+__pycache__/
+eating_events*.csv
